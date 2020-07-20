@@ -11,6 +11,7 @@
     padding-right: 0;
   }
 
+
   &--no-padding-until-medium{
     padding-left: 0;
     padding-right: 0;
@@ -34,6 +35,10 @@
 
   &--medium{
     max-width: 800px;
+  }
+
+  &--narrow{
+    max-width: 470px;
   }
 
   &--b-margin{
